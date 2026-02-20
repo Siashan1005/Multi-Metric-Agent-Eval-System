@@ -1,6 +1,4 @@
 # Multi-Metric-Agent-Eval-System
-A multi-dimensional evaluation and security benchmarking system for SQL Agents using DeepEval and Groq (Llama-3).
-# Multi-Metric-Agent-Eval-System
 
 A multi-dimensional evaluation and security benchmarking system for SQL Agents using **DeepEval** and **Groq (Llama-3.3-70B)**. This project focuses on moving beyond simple "correctness" to analyze Agent performance through the lenses of safety, efficiency, and reliability.
 
